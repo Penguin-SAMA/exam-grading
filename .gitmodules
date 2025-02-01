@@ -4,3 +4,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = git@github.com:Penguin-SAMA/rustlings.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = git@github.com:Penguin-SAMA/TinyInfiniTensor.git
